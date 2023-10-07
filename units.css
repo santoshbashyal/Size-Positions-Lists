@@ -1,0 +1,10 @@
+*{margin: 0;
+    padding: 0;}
+
+        .container{
+            font-size: 34px ;
+        }   
+
+        .box{
+            font-size: 0.5em;
+        }
